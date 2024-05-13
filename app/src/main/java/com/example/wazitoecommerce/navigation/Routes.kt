@@ -1,7 +1,6 @@
 package com.example.wazitoecommerce.navigation
 
-const val HOME_URL = "home"
-const val NATURE_URL = "nature"
+ const val NATURE_URL = "nature"
  const val CARS_URL = "cars"
 const val ANIMATIONS_URL = "anime"
 const val LOVE_URL = "love"
